@@ -1,11 +1,6 @@
 /*
  *公開第6回）赤外線によるエアコンのON/OFFと温度調整制御 2021/06/02
  */
-/* 修正したいけど、優先考えて
- * △ I2CEEPROM512　はメインで定義して、init関数で渡す。
- * 未使用変数などコメントにした。最後に消す
- * 
- */
 // WindowsPC/Mac用
 //#define USBHOST_WINPC
 #define USBHOST_MAC
