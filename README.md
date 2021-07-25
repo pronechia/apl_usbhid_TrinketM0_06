@@ -4,7 +4,7 @@
 
 Arduinoの USB/HID を使って文字列を出力しブラウザーと連携して、エアコンのON/OFFと温度調整制御をおこない、結果をロギング＆プロット出力します。ブラウザー／Arduino／エアコン の仕組みは第五回と同様ですが、冷房／暖房の制御が可能です。さらに Arduino で結果をEEPROMにロギングし、後でIDEのシリアルプロッタに出力します。
 
-詳細はQiita参照 https://qiita.com/pronechia/items/b9623c5b8ac65b95edbf
+詳細はQiita参照 https://qiita.com/pronechia/items/5054b9567454df6b9edd
 
 注意）
 
